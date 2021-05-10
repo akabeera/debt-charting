@@ -23,6 +23,6 @@
     "react-icons": "^3.8.0",
     "react-router-dom": "^5.1.0",
     "reactjs-localstorage": "0.0.8",
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.21"
   }
 }
